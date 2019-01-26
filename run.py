@@ -101,6 +101,8 @@ async def handler(event):
     if match:
         is_hatched = True
         hatched_mon = match.group(1)
+        if hatched_mon == 'Egg':
+            is_hatched = False
     else:
         is_hatched = False
     
