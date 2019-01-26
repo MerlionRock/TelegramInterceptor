@@ -10,5 +10,5 @@ A Telegram Client that is designed to filter Message from SGPokeMap and send to 
 
 ## Things to do
 1. Filter Gyms by address
-2. Filter Gyms by boundary (2 coordiates to define a rectangle coundary)
+2. Filter Gyms by boundary (2 coordiates to define a rectangle boundary)
 3. Filter by Pokemon Name, IV, CP, Level, Movesets, address or boundary
